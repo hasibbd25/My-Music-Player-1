@@ -1,0 +1,6 @@
+{
+  "name": "SonicFlow",
+  "description": "High-fidelity music player with audio visualization, playlist manager, equalizer presets, sleep timer, and device audio playback.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
